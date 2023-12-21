@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+/*https://fonts.google.com/ 
+Aladin
+Fontes serifadas	: Josefin Sans, Dosis 
+Fontes não serifadas: Roboto, Preahvihear, Mina, Rubik Bubbles
+Cursivas			: Caveat, Pacifico, Mynerve, Dancing Script, Borel
+Pixelada			: Silkscreen, Wallpoet
+*/
+
+
+
+
+body{
+    font-family: Silkscreen;
+	font-size: medium;
+    background-color:#282726;
+    color: #F2E7C2;
+    
+}
+.foto{
+    border-radius: black;
+    width:30%;
+    height:10%;
+
+}
+
+img{
+    border-radius:50%;
+}
+
+a{
+    color: #605448;
+    text-decoration:none;
+}
+
+p{ 
+    padding: 16px;
+}
+
+ 
+.enfasecurso{
+    text-align:"justify";
+    padding:16;
+    color: red;
+}
+
+# {
+
+
+}
+
+a{
+    color: #C4C17B;
+    text-decoration:none;
+}
+a:visited{
+    color:lightblue;
+}
+.a:hover{
+    color:red;
+}
+.td-menu{
+    background-color:grey;
+}
+.td-menu:hover{
+    background-color:green;
+}
+img{
+    border-radius:50%;
+}
+
+.td-menu:{
+
+
+.logo_LP{
+    width:15px;
+    border-radius:15%;
+    color:white;
+}
+
+.logo_LP:hover{
+    color:green;
+
+}   
+
+
+
+
